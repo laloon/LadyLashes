@@ -92,8 +92,17 @@ h3.title {
     font-weight: 600;
     text-transform: uppercase;
 }
+h4.title {
+    font-size: 25px;
+    text-align: center;
+    color: #ff5ae6;
+    margin-bottom: 10px;
+    letter-spacing: 1px;
+    font-weight: 400;
+
+}
 h3.clr {
-    color: #fff;
+    color: #000000;
 }
 /*--header --*/
 .header-main{
