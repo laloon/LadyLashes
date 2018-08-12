@@ -348,7 +348,7 @@ background-repeat: no-repeat;
   }
 
 a {
-  color: #fff;
+  color: #000000;
   text-decoration: none;
   }
 
@@ -956,7 +956,7 @@ background:#0ca2cf;}
     color: #000;
     border: none;
     padding: 1em 0em;
-     border-bottom:2px solid #000;
+    border-bottom:2px solid #000;
     font-size: 15px;
     width: 100%;
     background: rgba(229, 143, 230, 0);
